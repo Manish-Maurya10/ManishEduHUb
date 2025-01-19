@@ -1,4 +1,5 @@
 #ManishEduHUb
+
 <img width="431" alt="image" src="https://github.com/user-attachments/assets/30f8fe63-2d35-4a30-ad92-b131a7ad3602" />
 
 Manish EduHub is a responsive, multi-page front-end website designed to provide accessible education resources. This project is built using HTML and CSS with a focus on clean design and usability.
